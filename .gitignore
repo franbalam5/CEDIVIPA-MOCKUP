@@ -1,0 +1,6 @@
+# Ignorar subidas de los usuarios
+uploads/*
+!uploads/.gitkeep
+
+# Ignorar la carpeta de librerías de Composer (se instalan con composer install)
+vendor/
