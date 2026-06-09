@@ -1,0 +1,21 @@
+{
+  "casos": [
+    {
+      "id": 1,
+      "mes": "Junio 2026",
+      "activo": true,
+      "titulo": "Lesión radiolúcida mandibular",
+      "paciente": "Masculino, 45 años",
+      "historia_clinica": "El paciente acude a consulta refiriendo dolor leve y asimetría facial en el lado derecho de la mandíbula de 3 meses de evolución. A la exploración intraoral se observa expansión de corticales. Las pruebas de vitalidad en los órganos dentarios adyacentes son positivas.",
+      "imagen_url": "../assets/img/placeholder_rx.jpg", 
+      "opciones_diagnosticas": [
+        "Quiste Radicular",
+        "Ameloblastoma",
+        "Granuloma Central de Células Gigantes",
+        "Osteomielitis"
+      ],
+      "respuesta_correcta": "Ameloblastoma",
+      "explicacion": "El ameloblastoma es un tumor odontogénico benigno pero localmente agresivo que frecuentemente causa expansión de corticales en la zona posterior de la mandíbula. Al estar los dientes vitales, se descarta el quiste radicular (inflamatorio)."
+    }
+  ]
+}
